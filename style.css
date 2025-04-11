@@ -204,15 +204,15 @@
 @media(max-width: 430px){
     .one {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .two {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .three {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .time {
         font-size: 50px;
@@ -221,14 +221,14 @@
     
     .four {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .five {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }.six {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .zarb {
         font-size: 50px;
@@ -237,15 +237,15 @@
     
     .seven {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .eight {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .nine {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 20px;
     }
     .minus {
         font-size: 50px;
@@ -254,31 +254,31 @@
     
     .concel {
         font-size: 50px;
-        padding: 5px 26px;
+        padding: 5px 22px;
     }
     .zero {
         font-size: 50px;
-        padding: 5px 26px;
+        padding: 5px 20px;
     }
     .dot {
         font-size: 50px;
-        padding: 5px 30px;
+        padding: 5px 26px;
     }
     .plus {
         font-size: 50px;
-        padding: 5px 22px;
+        padding: 5px 21px;
     }
     .mod {
         font-size: 50px;
-        padding: 5px 17px;
+        padding: 5px 13px;
     }
     .openQavs {
         font-size: 50px;
-        padding: 5px 31px;
+        padding: 5px 25px;
     }
     .closeQavs {
         font-size: 50px;
-        padding: 5px 30px;
+        padding: 5px 25px;
     }
     .barobar {
         font-size: 50px;
