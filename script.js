@@ -24,10 +24,8 @@ let barobar = document.querySelector(".barobar");
 
 let forEleventh = []
 function append(val) {
-    if(forEleventh.length < 13){
         number.innerHTML += val;
         forEleventh.push(val)
-    }
 }
 
 
