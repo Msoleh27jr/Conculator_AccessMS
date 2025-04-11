@@ -22,9 +22,14 @@ let closeQavs = document.querySelector(".closeQavs");
 let concel = document.querySelector(".concel");
 let barobar = document.querySelector(".barobar");
 
+let forEleventh = []
 function append(val) {
-    number.innerHTML += val;
+    if(forEleventh.length < 13){
+        number.innerHTML += val;
+        forEleventh.push(val)
+    }
 }
+
 
 one.onclick = () => append("1");
 two.onclick = () => append("2");
