@@ -204,87 +204,113 @@
 @media(max-width: 430px){
     .one {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .two {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .three {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .time {
         font-size: 50px;
-        padding: 5px 26px;
+        padding: 5px 0px;
+        width: 23%;
     }
     
     .four {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .five {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }.six {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .zarb {
         font-size: 50px;
-        padding: 5px 22px;
+        padding: 5px 0px;
+        width: 23%;
     }
     
     .seven {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .eight {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .nine {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .minus {
         font-size: 50px;
-        padding: 5px 26px;
+        padding: 5px 0px;
+        width: 23%;
     }
     
     .concel {
         font-size: 50px;
-        padding: 5px 22px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .zero {
         font-size: 50px;
-        padding: 5px 20px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .dot {
         font-size: 50px;
-        padding: 5px 26px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .plus {
         font-size: 50px;
-        padding: 5px 21px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .mod {
         font-size: 50px;
-        padding: 5px 13px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .openQavs {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .closeQavs {
         font-size: 50px;
-        padding: 5px 25px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .barobar {
         font-size: 50px;
-        padding: 5px 21px;
+        padding: 5px 0px;
+        width: 23%;
     }
     .box {
+        width: 90%;
         height: 650px;
+    }
+    .allNumber {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
     }
 }
