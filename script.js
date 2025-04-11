@@ -50,9 +50,11 @@ concel.onclick = () => number.innerHTML = "";
 
 barobar.onclick = () => {
     try {
+        if(number.length < 13){
         let expression = number.innerHTML;
         let result = eval(expression);
-        number.innerHTML = result;
+            number.innerHTML = result;
+        }
     } catch (error) {
         number.innerHTML = "Error";
     }
