@@ -23,9 +23,7 @@ let concel = document.querySelector(".concel");
 let barobar = document.querySelector(".barobar");
 
 function append(val) {
-    if(number.length < 12){
     number.innerHTML += val;
-}
 }
 
 one.onclick = () => append("1");
